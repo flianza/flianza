@@ -9,7 +9,7 @@ We help companies in Argentina and LatAm turn scattered data into decisions and 
 - 🧭 Technical leadership: architecture, delivery and team
 
 ## Metis
-Co-author of **[Metis](https://metis.urbsdata.com)**, Urbs' product that becomes the visible face of your data warehouse / lakehouse.
+At Urbs we built **[Metis](https://metis.urbsdata.com)**, the visible face of your data warehouse / lakehouse.
 Anyone on the team can ask questions in natural language and get answers built on the semantic model, KPIs and business rules your analysts already defined, with lineage and access control. Read-only, and available through an MCP server for any compatible AI client.
 
 ## Stack
